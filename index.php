@@ -24,6 +24,7 @@
                     <li><a href="#">Variables</a></li>
                     <li><a href="interpolar.php" accesskey="i">Interpolar Caracter</a></li>
                     <li><a href="#">Constantes</a></li>
+                    <li><a href="ifcondicinal.php" accesskey="f">If-Condicional</a></li>
                     <li><a href="#" accesskey="h">Home</a></li>
                 </ul>
             </nav>
