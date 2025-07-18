@@ -68,7 +68,7 @@
         <img src="img/code3.png" alt="" style="height: 200px; width:300px">
     </section>
     <footer>
-
+        <?php include_once 'footer.php' ?>
     </footer>
 </body>
 

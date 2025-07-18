@@ -6,3 +6,9 @@ body {
     display: grid;
     place-content: center;
 }
+hr { 
+    width: 80%; /* Ajusta el ancho de la línea */ 
+    height: 2px; /* Define el grosor de la línea */ 
+    background-color: #000000; /* Cambia el color de la línea */ 
+    margin: 20px auto; /* Centra la línea horizontalmente */ 
+    } 
