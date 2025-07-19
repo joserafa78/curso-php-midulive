@@ -27,6 +27,7 @@
                     <li><a href="ifcondicinal.php" accesskey="f">If-Condicional</a></li>
                     <li><a href="ifTernario.php" accesskey="t">If-Condicional</a></li>
                     <li><a href="formulario.php" accesskey="m">Mi Formulairo</a></li>
+                    <li><a href="api_pelicula.php" accesskey="a"> Api de Proxima Pelicula</a></li>
                     <li><a href="#" accesskey="h">Home</a></li>
                 </ul>
             </nav>

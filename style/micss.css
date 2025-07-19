@@ -12,3 +12,17 @@ hr {
     background-color: #000000; /* Cambia el color de la línea */ 
     margin: 20px auto; /* Centra la línea horizontalmente */ 
     } 
+section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+hgroup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+}
