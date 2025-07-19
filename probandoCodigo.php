@@ -92,6 +92,10 @@
         <P>
             El Resultado es: <?= $devuelveTerminal ?>
         </P>
+        <h3>Array Asociativo y Macht</h3>
+        <p>
+            El Resultado es: <?= $valorSalidaMatch ?>
+        </p>
     </article>
     <footer>
         <?php include_once 'footer.php' ?>
